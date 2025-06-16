@@ -7,7 +7,7 @@
         <mxCell id="kx7hL2yCPBNjlXCY1kkF-0" value="患者招募" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="226" y="20" width="156" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="kx7hL2yCPBNjlXCY1kkF-1" value="收集患者疑问" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kx7hL2yCPBNjlXCY1kkF-1" value="住院问卷调查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="226" y="136" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kx7hL2yCPBNjlXCY1kkF-2" value="LLMs" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
