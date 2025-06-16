@@ -14,13 +14,13 @@
           <mxGeometry x="218" y="333" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kx7hL2yCPBNjlXCY1kkF-4" value="病情认知模块" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="20" y="431" width="156" height="48" as="geometry" />
+          <mxGeometry x="30" y="410" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kx7hL2yCPBNjlXCY1kkF-5" value="生活管理模块" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="226" y="410" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kx7hL2yCPBNjlXCY1kkF-6" value="心理支持模块" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="432" y="431" width="156" height="48" as="geometry" />
+          <mxGeometry x="414" y="410" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kx7hL2yCPBNjlXCY1kkF-7" value="医生审核" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="242" y="530" width="124" height="48" as="geometry" />
