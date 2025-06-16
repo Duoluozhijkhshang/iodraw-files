@@ -10,9 +10,6 @@
         <mxCell id="kx7hL2yCPBNjlXCY1kkF-1" value="住院问卷调查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="226" y="136" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="kx7hL2yCPBNjlXCY1kkF-2" value="LLMs" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="234" width="139" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="kx7hL2yCPBNjlXCY1kkF-3" value="生成个性化建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="218" y="333" width="172" height="48" as="geometry" />
         </mxCell>
@@ -45,14 +42,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kx7hL2yCPBNjlXCY1kkF-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kx7hL2yCPBNjlXCY1kkF-1" target="kx7hL2yCPBNjlXCY1kkF-2">
+        <mxCell id="kx7hL2yCPBNjlXCY1kkF-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kx7hL2yCPBNjlXCY1kkF-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kx7hL2yCPBNjlXCY1kkF-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kx7hL2yCPBNjlXCY1kkF-2" target="kx7hL2yCPBNjlXCY1kkF-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="304.5" y="282" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kx7hL2yCPBNjlXCY1kkF-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kx7hL2yCPBNjlXCY1kkF-3" target="kx7hL2yCPBNjlXCY1kkF-4">
