@@ -7,9 +7,6 @@
         <mxCell id="zsishxpMBquMe3LbRU9l-0" value="患者招募" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsishxpMBquMe3LbRU9l-1" value="flowchart TD&#xa;    A[招募癫痫患者&lt;br/&gt;n=20-30] --&gt; B[收集患者疑问]&#xa;    B --&gt; C[AI模型处理]&#xa;    C --&gt; D[生成个性化建议]&#xa;    &#xa;    D --&gt; E1[病情认知模块]&#xa;    D --&gt; E2[生活管理模块]&#xa;    D --&gt; E3[心理支持模块]&#xa;    &#xa;    E1 --&gt; F[医生审核]&#xa;    E2 --&gt; F&#xa;    E3 --&gt; F&#xa;    &#xa;    F --&gt; G{内容是否准确?}&#xa;    G --&gt;|是| H[打印宣教材料]&#xa;    G --&gt;|否| I[修改完善]&#xa;    I --&gt; F&#xa;    &#xa;    H --&gt; J[患者宣教]&#xa;    J --&gt; K[满意度调查]&#xa;    K --&gt; L[收集反馈建议]&#xa;    &#xa;    style A fill:#e1f5fe&#xa;    style C fill:#fff9c4&#xa;    style F fill:#ffccbc&#xa;    style K fill:#c8e6c9" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="220" width="310" height="400" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
