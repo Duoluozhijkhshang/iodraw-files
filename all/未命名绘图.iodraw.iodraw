@@ -122,16 +122,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kx7hL2yCPBNjlXCY1kkF-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kx7hL2yCPBNjlXCY1kkF-9">
+        <mxCell id="kx7hL2yCPBNjlXCY1kkF-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kx7hL2yCPBNjlXCY1kkF-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="209" y="950" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kx7hL2yCPBNjlXCY1kkF-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kx7hL2yCPBNjlXCY1kkF-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="209" y="1096" as="sourcePoint" />
+            <mxPoint x="209" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
