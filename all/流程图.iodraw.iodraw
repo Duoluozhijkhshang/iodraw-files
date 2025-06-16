@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="kx7hL2yCPBNjlXCY1kkF-0" value="患者招募" style="whiteSpace=wrap;strokeWidth=2;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="kx7hL2yCPBNjlXCY1kkF-0" value="患者招募" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="226" y="170" width="156" height="59" as="geometry" />
         </mxCell>
         <mxCell id="kx7hL2yCPBNjlXCY1kkF-1" value="住院问卷调查" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
