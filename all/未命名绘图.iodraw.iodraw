@@ -26,7 +26,7 @@
           <mxGeometry x="242" y="530" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kx7hL2yCPBNjlXCY1kkF-8" value="内容是否准确?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="136" y="610" width="151" height="151" as="geometry" />
+          <mxGeometry x="120" y="610" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="kx7hL2yCPBNjlXCY1kkF-9" value="患者宣教" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="131" y="851" width="156" height="48" as="geometry" />
@@ -101,9 +101,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kx7hL2yCPBNjlXCY1kkF-25" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=1;entryX=0.26;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kx7hL2yCPBNjlXCY1kkF-8" target="kx7hL2yCPBNjlXCY1kkF-10">
-          <mxGeometry x="0.1184" y="30" relative="1" as="geometry">
+          <mxGeometry x="-0.0613" y="7" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="270" y="750" />
+              <mxPoint x="280" y="730" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
